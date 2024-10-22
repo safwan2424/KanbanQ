@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import { ChevronDown, MoreHorizontal, Circle, CheckCircle2, Clock, XCircle } from 'lucide-react';
 import PriorityIcon from '../assets/Display.svg'; 
-import './Kanban.css';  
+import './kanban.css' 
 
 import UrgentIcon from '../assets/SVG - Urgent Priority grey.svg';
 import HighIcon from '../assets/Img - High Priority.svg';
